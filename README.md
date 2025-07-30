@@ -1,7 +1,7 @@
-# Hi there, I'm Evora Jhonj 👋
+# Hi there, I'm Jhon Joseph Evora 👋
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F77E28&width=435&lines=I'm+Evora+Jhonj;Full+Stack+Developer;Python+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F77E28&width=435&lines=I'm+Jhon+Joseph+Evora;IT+Student+At+Misu;Stack+Developer;Python+Developer" alt="Typing SVG" />
   </a>
 </p>
 
