@@ -1,6 +1,6 @@
 # > evorajhonj
 
-![evora](https://github.com/evorajhonj.png?size=128)
+![evora](https://github.com/evorajhonj.png?size=32)
 
 **Yo what's up everyone my name's Jhon Joseph Evora and welcome to my terminal!**
 
