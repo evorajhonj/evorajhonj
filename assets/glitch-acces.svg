@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100">
+  <defs>
+    <style>
+      .txt { font: 700 44px 'Fira Code', monospace; text-anchor: middle; dominant-baseline: middle; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="transparent"/>
+  <!-- Glitch layers -->
+  <text x="400" y="50" class="txt" fill="#ff4dff" opacity="0.65">ACCESS GRANTED</text>
+  <text x="402" y="52" class="txt" fill="#00e7f7" opacity="0.65">ACCESS GRANTED</text>
+  <text x="400" y="50" class="txt" fill="#00ff7f">ACCESS GRANTED</text>
+</svg>
