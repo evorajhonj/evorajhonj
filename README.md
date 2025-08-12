@@ -1,28 +1,18 @@
 <!--
 Ultra terminal-themed, compact shock-header for @evorajhonj.
+All-in: razor-minimal top, shock vibe, subtle glitch, focus-mode collapsibles.
 -->
 
 <div align="center">
 
-<!-- Thin neon bar (compact) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff7f&height=8&section=header" width="100%" alt="neon bar" />
+  <!-- Thin neon bar (compact) -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff7f&height=8&section=header" width="100%" alt="neon bar" />
 
-<!-- Compact avatar -->
-<img src="https://github.com/evorajhonj.png?size=96" width="72" height="72" alt="Jhon Joseph Evora" />
+  <!-- Glitch text (lightweight, local SVG) -->
+  <img src="./assets/glitch-access.svg" width="680" alt="ACCESS GRANTED glitch" />
 
-<!-- Shock line -->
-<strong><code>█▓▒░ ACCESS GRANTED ░▒▓█</code></strong>
-
-<!-- Fast typing, small height -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=600&center=true&vCenter=true&color=00FF7F&width=700&height=40&lines=sudo%20-i%20%26%26%20echo%20%22Welcome%2C%20operator.%22;./init.sh%20--fast;cat%20about.txt" alt="Typing intro" />
-
-<!-- Minimal badges -->
-<p>
-  <a href="https://evorajhonj.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/evorajhonj.com-00ff7f?style=flat-square&logo=vercel&logoColor=white"></a>
-  <a href="https://linkedin.com/in/evorajhonj" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:evorajhonj@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-ff6b6b?style=flat-square&logo=gmail&logoColor=white"></a>
-  <img alt="Status" src="https://img.shields.io/badge/STATUS-ONLINE-00ff7f?style=flat-square&labelColor=0d1117&logo=linux&logoColor=00ff7f" />
-</p>
+  <!-- Minimal, fast typing -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=600&center=true&vCenter=true&color=00FF7F&width=700&height=40&lines=sudo%20-i%20%26%26%20echo%20%22Welcome%2C%20operator.%22;./init.sh%20--fast;cat%20about.txt" alt="Typing intro" />
 
 </div>
 
@@ -48,17 +38,18 @@ I design clean architectures, craft reliable services, and turn ideas into shipp
 I value maintainability, performance, and thoughtful automation.
 ```
 
-## Skills
-```txt
-languages      : Python(███ 95) | TypeScript/JS(██ 85) | C++(█ 75) | Go(█ 60) | Rust(▮ 45)
-web/backends   : Django(███ 90) | Flask(██ 85) | FastAPI(██ 85) | Node.js(██ 80) | Express(██ 80) | React(███ 90)
-datastores     : PostgreSQL(███ 90) | MongoDB(██ 85) | MySQL(██ 80) | Redis(█ 65)
-devops/cloud   : Docker(███ 90) | Kubernetes(█ 75) | AWS(██ 85) | GitHub Actions(███ 90) | Terraform(█ 70)
-data/ml        : Pandas(███ 90) | scikit-learn(██ 75) | PyTorch(█ 80) | TensorFlow(█ 70)
-```
+## Quick links
+<div align="center">
+  <!-- Avatar + badges moved below the fold (razor-minimal top) -->
+  <img src="https://github.com/evorajhonj.png?size=120" width="96" height="96" alt="Jhon Joseph Evora" /><br/>
+  <a href="https://evorajhonj.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/evorajhonj.com-00ff7f?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://linkedin.com/in/evorajhonj" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:evorajhonj@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-ff6b6b?style=flat-square&logo=gmail&logoColor=white"></a>
+  <img alt="Status" src="https://img.shields.io/badge/STATUS-ONLINE-00ff7f?style=flat-square&labelColor=0d1117&logo=linux&logoColor=00ff7f" />
+</div>
 
 <details>
-  <summary>Open terminal view</summary>
+  <summary><b>Open terminal view</b></summary>
 
 ```bash
 $ ls -la skills/
@@ -89,31 +80,31 @@ platforms_tooling/
 ├── github_actions...........[████████████] 90%
 └── terraform................[██████      ] 70%
 ```
-
 </details>
+
+## Skills
+```txt
+languages      : Python(███ 95) | TypeScript/JS(██ 85) | C++(█ 75) | Go(█ 60) | Rust(▮ 45)
+web/backends   : Django(███ 90) | Flask(██ 85) | FastAPI(██ 85) | Node.js(██ 80) | Express(██ 80) | React(███ 90)
+datastores     : PostgreSQL(███ 90) | MongoDB(██ 85) | MySQL(██ 80) | Redis(█ 65)
+devops/cloud   : Docker(███ 90) | Kubernetes(█ 75) | AWS(██ 85) | GitHub Actions(███ 90) | Terraform(█ 70)
+data/ml        : Pandas(███ 90) | scikit-learn(██ 75) | PyTorch(█ 80) | TensorFlow(█ 70)
+```
 
 ## Featured Projects
 - Project 1 — One-liner describing impact/tech. [Repo/Demo ➜](#)
 - Project 2 — One-liner describing impact/tech. [Repo/Demo ➜](#)
 - See pinned repositories for more.
 
-## Activity & Graphics
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evorajhonj&theme=github-compact&area=true&hide_border=true&custom_title=Activity%20Graph" alt="Activity Graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=evorajhonj&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=00ff7f&border_color=30363d&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evorajhonj&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&border_radius=10" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=evorajhonj&theme=dark&background=0d1117&ring=00ff7f&fire=00ff7f&currStreakLabel=00ff7f&sideNums=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=evorajhonj&theme=onedark&no-frame=true&no-bg=true&column=7" alt="GitHub Profile Trophies" />
-</div>
-
+## Activity & Graphics (focus mode)
 <details>
-  <summary>System metrics (rendered image)</summary>
-  
+  <summary><b>Show stats and activity</b></summary>
   <div align="center">
-    <img src="https://metrics.lecoq.io/evorajhonj?template=classic&isocalendar=1&languages=1&introduction=1&achievements=1&notable=1&lines=1&stars=1&followup=1&pagespeed=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&isocalendar.duration=full-year&config.timezone=UTC&config.animated=true" alt="GitHub Metrics" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=evorajhonj&theme=github-compact&area=true&hide_border=true&custom_title=Activity%20Graph" alt="Activity Graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=evorajhonj&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=00ff7f&border_color=30363d&border_radius=10" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evorajhonj&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&border_radius=10" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=evorajhonj&theme=dark&background=0d1117&ring=00ff7f&fire=00ff7f&currStreakLabel=00ff7f&sideNums=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
+    <img src="https://github-profile-trophy.vercel.app/?username=evorajhonj&theme=onedark&no-frame=true&no-bg=true&column=7" alt="GitHub Profile Trophies" />
   </div>
 </details>
 
@@ -141,8 +132,7 @@ STATUS="Available for opportunities"
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 
-<sub>© 2025 Jhon Joseph Evora — Terminal session closed. Press ⏎ to reboot.</sub>
-
+  <sub>© 2025 Jhon Joseph Evora — Terminal session closed. Press ⏎ to reboot.</sub>
 </div>
